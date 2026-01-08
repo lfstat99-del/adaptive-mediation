@@ -11,7 +11,8 @@ This repository contains R code used to reproduce the simulation studies and rea
   R script for the real data analysis example presented in the manuscript.
 
 ## Requirements
-Please install necesary packages before running the code.
+The code was developed and tested under R.
+Please install the required R packages before running the scripts.
 
 ## Notes
 This code is provided for reproducibility purposes only.
