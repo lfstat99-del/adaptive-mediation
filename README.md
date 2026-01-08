@@ -1,6 +1,6 @@
 # adaptive-mediation
 
-# Code for Reproducibility
+## Code for Reproducibility
 This repository contains R code used to reproduce the simulation studies and real data analysis reported in the manuscript "An adaptive test for natural indirect effect in large-dimensional mediation analysis“ submitted to TEST.
 
 ## Files
